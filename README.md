@@ -1,9 +1,7 @@
 ------------------------------------------------------------------------
 C'est un simple projet basé sur un système de gestion de stationnement en ligne qui utilise  le langage PHP  avec le framework CodeIgniter . Le projet CodeIgniter suivant contient toutes les fonctionnalités essentielles qui peuvent être utilisées dans un parking (suivi du stationnement des véhicules, affichage tous les emplacements de stationnement disponibles avec leur disponibilité respective, ajout des tarifs de stationnement, revue détaillé, et recherche...)
 ------------------------------------------------------------------------
-
 FONCTIONNALITES DISPONNIBLES:
-
 Login et registre
 Panneau d'administration
 Gestion des catégories de véhicules
@@ -21,7 +19,6 @@ Définir la devise
 Profils
 Paramètres du compte
 -----------------------------------------------------------------------
-
 INSTALLATION:
 Copier le ficher ProjetMVC dans c:/laragon/www
 Lancer Laragon
